@@ -1,6 +1,6 @@
 // Here are some challenges. Solve them from top to bottom
   // Ex 1. Read the content of the email input
-  
+
   // Ex 2. Fill the content of the email input with your email
 
   // Ex 3. Replace the email hint (next to the input) with 'This is my email now'
