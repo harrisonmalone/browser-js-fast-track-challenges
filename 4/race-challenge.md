@@ -71,7 +71,7 @@ document.addEventListener("keyup", event => console.log(event));
 
 _Do you understand why we use `keyup` and not `keydown`?_
 
-##### Starting and Winning 🏁
+#### Starting and Winning 🏁
 
 Two more final things:
 
