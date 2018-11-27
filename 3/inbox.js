@@ -11,6 +11,7 @@ function appendMessageToDom(message) {
 }
 
 function updateCounter() {
+  // TODO: when a new email comes in update the counter
 }
 
 function refresh() {
